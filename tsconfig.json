@@ -1,0 +1,23 @@
+{
+  "include": [
+    "src/"
+  ],
+  "exclude": [
+    "build",
+    "node_modules",
+    "tests"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es6",
+    "moduleResolution": "node",
+    "module": "esnext",
+    "jsx": "react",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "typeRoots": [
+      "./node_modules/@kudashi"
+    ]
+  }
+}

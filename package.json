@@ -1,0 +1,33 @@
+{
+  "name": "path-array-tool",
+  "version": "1.0.0",
+  "description": "路径阵列插件示例",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack --config ./webpack.config.dev.js & webpack serve --config ./webpack.config.dev.js",
+    "build-dev": "npx webpack --config ./webpack.config.dev.js",
+    "build": "npx webpack --mode=production"
+  },
+  "devDependencies": {
+    "@kudashi/kds-api": "latest",
+    "@kudashi/kds-inline-chunk-html-plugin": "latest",
+    "@webpack-cli/serve": "^1.2.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^4.5.0",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^8.0.11",
+    "typescript": "^4.0.5",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.1"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "antd": "*",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

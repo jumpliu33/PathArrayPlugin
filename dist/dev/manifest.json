@@ -1,0 +1,8 @@
+{
+    "name": "path-array-plugin-title",
+    "id": "QyJDUjPlZWSNIBm",
+    "version": "1.0.0",
+    "view": "http://localhost:8082/ui.html",
+    "main": "./src/main.js",
+    "translations": "./translations.json" 
+}

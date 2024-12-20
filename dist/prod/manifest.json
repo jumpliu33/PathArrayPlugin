@@ -1,0 +1,8 @@
+{
+    "name": "路径阵列插件示例",
+    "id": "QyJDUjPlZWSNIBm",
+    "version": "1.0.0",
+    "view": "./src/ui.html",
+    "main": "./src/main.js",
+    "translations": "./translations.json" 
+}

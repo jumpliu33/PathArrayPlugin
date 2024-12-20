@@ -1,0 +1,24 @@
+.button-wrapper {
+    height: 100px;
+    width: 100%;
+    
+    .button {
+        height: 40px;
+        width: 160px;
+        border-radius: 4px;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    .button-path-array-normal {
+        margin: 20px 0 0 30px;
+        border: 1px solid #E1E1E1;
+        box-shadow: 3px 3px #222;
+    }
+    
+    .button-path-array-active {
+        margin: 23px 0 0 33px;
+        border: 1px solid #000;
+    }
+}

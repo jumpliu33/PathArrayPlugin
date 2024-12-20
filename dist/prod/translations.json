@@ -1,0 +1,22 @@
+{
+    "pluginName": {
+        "default": "Path Array Plugin",
+        "zh_CN": "路径阵列插件",
+        "en_US": "Path Array Plugin",
+        "zh_TW": "Path Array Plugin",
+        "en_CN": "Path Array Plugin",
+        "es_ES": "Path Array Plugin",
+        "ar_EG": "Path Array Plugin",
+        "fr_FR": "Path Array Plugin",
+        "de_DE": "Path Array Plugin",
+        "ru_RU": "Path Array Plugin",
+        "ja_JP": "Path Array Plugin",
+        "ko_KR": "Path Array Plugin",
+        "it_IT": "Path Array Plugin",
+        "th_TH": "Path Array Plugin",
+        "pt_PT": "Path Array Plugin",
+        "id_ID": "Path Array Plugin",
+        "ro_RO": "Path Array Plugin",
+        "pl_PL": "Path Array Plugin"
+    }
+}
